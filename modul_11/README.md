@@ -36,7 +36,7 @@ Berikut adalah tampilan dari aplikasi Tasbih Digital setelah digunakan:
 
 **Tampilan Aplikasi Tasbih (GetX)**
 
-![Modul 9 Home](./assets/region-20251022-061837.png)
+![Modul 10 Home](./assets/region-20251022-061837.png)
 
 ---
 

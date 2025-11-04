@@ -39,7 +39,7 @@ class HalamanUtama extends StatelessWidget {
                 ),
                 const SizedBox(height: 30),
                 const Text(
-                  'Pertama, kita perlu membuat dua halaman atau \"routes\" yang ingin kita tampilkan. Selanjutnya, kita gunakan perintah Navigator.push() untuk berpindah dari halaman pertama ke halaman kedua. Ini seperti kita membuka halaman baru. Terakhir, kita bisa kembali dari halaman kedua ke halaman pertama menggunakan Navigator.pop(). Seperti menutup halaman kedua dan kembali ke halaman pertama.',
+                  'Pertama, kita perlu membuat dua halaman atau "routes" yang ingin kita tampilkan. Selanjutnya, kita gunakan perintah Navigator.push() untuk berpindah dari halaman pertama ke halaman kedua. Ini seperti kita membuka halaman baru. Terakhir, kita bisa kembali dari halaman kedua ke halaman pertama menggunakan Navigator.pop(). Seperti menutup halaman kedua dan kembali ke halaman pertama.',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 16, color: Colors.white70),
                 ),
