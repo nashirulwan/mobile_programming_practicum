@@ -21,5 +21,4 @@ I am currently studying **Mobile Programming**, and this section contains my ass
 | 11 | 15/10/2025 | 07 | State Management with GetX | [Modul 11](https://drive.google.com/file/d/1dIQZ2l0OgDLlLe0YfPC-mZV6xqmvkiIw/view?usp=sharing) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_11) |
 | 12 | 22/10/2025 | 08 | midterm exam | [cafeist](https://drive.google.com/file/d/1CDYH62tG1oGQk85-UuSgRKbDmdMpopyT/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/cafeist) |
 | 13 | 05/11/2025 | 09 | Access Location with GPS in Flutter | [Modul 12](https://drive.google.com/file/d/1yR9bf4dGc-MpMwdzY3pCQnksx3z0XaFp/view?usp=sharing) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_12) |
-
-> 📌 All upcoming assignments and reports will be added here.
+| 14 | 19/11/2025 | 10 | CRUD (Create, Read, Update, Delete) Operations in Flutter with REST API | [Modul 13](https://drive.google.com/file/d/1aEZWlIKA-et5SWN_xb6Kdy36ckSGu5Ek/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_13) |
