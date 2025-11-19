@@ -38,18 +38,20 @@ Langkah-langkah pengerjaan tugas implementasi CRUD Client-Server:
 Berikut adalah tampilan aplikasi saat menjalankan operasi CRUD:
 
 **Tampilan Awal Aplikasi**
+
 ![Tampilan Awal](./assets/screenshot_2025-11-19_19-56-25.png)
 
 **Dialog Tambah Post (Create)**
+
 ![Dialog Create](./assets/screenshot_2025-11-19_19-56-43.png)
 
 **Hasil Create Data (Tampilan Card)**
+
 ![Hasil Create](./assets/screenshot_2025-11-19_19-56-56.png)
 
-
 **Dialog Update Post**
-| ![Dialog Update 1](./assets/screenshot_2025-11-19_19-57-13.png) | ![Dialog Update 2](./assets/screenshot_2025-11-19_19-57-28.png) |
-|---|---|
+|<img src="./assets/screenshot_2025-11-19_19-57-13.png" width="100%" alt="Tampilan 1">|<img src="./assets/screenshot_2025-11-19_19-57-28.png" width="100%" alt="Tampilan 2">|
+|:---:|:---:|
 
 **Konfirmasi & Notifikasi Delete**
 | ![Konfirmasi Delete 1](./assets/screenshot_2025-11-19_19-57-58.png) | ![Konfirmasi Delete 2](./assets/screenshot_2025-11-19_19-58-12.png) |
